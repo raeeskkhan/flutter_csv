@@ -1,6 +1,6 @@
-# fluttercsv
+# Flutter CSV
 
-A new Flutter application.
+Flutter App to read data from a CSV Document
 
 ## Getting Started
 

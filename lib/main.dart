@@ -34,8 +34,6 @@ class _HomePageState extends State<HomePage> {
             child: Text("Click Me"),
             onPressed: () {
               loadCSV();
-
-              print("Hello World");
             },
             color: Colors.deepOrange,
           ),
